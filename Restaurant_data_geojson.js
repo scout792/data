@@ -1,4 +1,4 @@
-s{
+var dc_rest = {
     "type": "FeatureCollection",
     "features": [
         {
@@ -3852,4 +3852,4 @@ s{
             }
         }
     ]
-}
+};
