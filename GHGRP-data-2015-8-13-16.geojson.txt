@@ -1,4 +1,6 @@
-{"features": [
+{
+"type": "FeatureCollection",
+"features": [
 {"geometry": 
         {   "coordinates": [ -96.53143,
                 33.9814
